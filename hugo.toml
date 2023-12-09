@@ -1,4 +1,4 @@
-baseURL = "https://stellaros-linux.github.io"
+baseURL = "https://stellaros.net"
 languageCode = "en-us"
 title = "Stellar OS"
 theme = "hextra"
