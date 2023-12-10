@@ -1,5 +1,5 @@
 ---
-title: Wiki
+title: Stellar OS Wiki
 cascade:
   type: docs
 ---
