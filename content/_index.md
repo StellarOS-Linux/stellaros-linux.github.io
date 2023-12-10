@@ -7,6 +7,6 @@ layout: hextra-home
 A Linux distribution based on Fedora focus on maintain stability using the power of virtualization.
 {{< /hextra/hero-subtitle >}}
 
-
+&#x3000
 
 {{< hextra/hero-button text="Get Started" link="wiki" >}}
